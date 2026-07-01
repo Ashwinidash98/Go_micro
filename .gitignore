@@ -1,11 +1,3 @@
-Go-micro/
-├── .gitignore
-├── authentication-service/
-├── broker-service/
-├── front-end/
-├── project/
-├── docker-compose.yml
-└── Makefile
 # Database data
 project/db-data/
 
