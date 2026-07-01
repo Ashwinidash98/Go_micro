@@ -1,0 +1,25 @@
+# Database data
+project/db-data/
+
+# Go binaries
+*.exe
+authApp
+brokerApp
+frontApp
+
+# Build folders
+bin/
+dist/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
